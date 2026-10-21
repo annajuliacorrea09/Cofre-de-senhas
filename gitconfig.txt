@@ -5,7 +5,7 @@ git config --global user.email annajulcorrea09@gmail.com
 
 --Criar o projeto
 npx create-expo-app@latest GMusic --template blank@57
-cd GMusic
+ cd senhas-app
 
 
 --Instalar as bibliotecas 
