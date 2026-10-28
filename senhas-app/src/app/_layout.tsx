@@ -1,8 +1,7 @@
 import { Stack } from 'expo-router';
 import { StyleSheet } from 'react-native';
-import { AppProvider } from '../lib/store';
-import { colors } from '../lib/styles';
-
+import { AppProvider } from "../../../lib/store";
+import { colors } from "../../../lib/styles";
 export default function RootLayout() {
   return (
     <AppProvider>
